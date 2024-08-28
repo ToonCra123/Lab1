@@ -1,5 +1,5 @@
 //
-//modified by: Michael Gee
+//modified by: Michael Gullowee
 //date:
 //
 //original author: Gordon Griesel
